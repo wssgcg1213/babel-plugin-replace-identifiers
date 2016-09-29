@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "name": "babel-plugin-replace-identifiers",
   "description": "replace-identifiers",
   "repository": "wssgcg1213/babel-plugin-replace-identifiers",
   "author": "Ling. <zhuoling.lcl@alibaba-inc.com>",
