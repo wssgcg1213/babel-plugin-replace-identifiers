@@ -1,0 +1,1 @@
+React.createElement('foo', bar, 'React', React);
