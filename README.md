@@ -1,5 +1,7 @@
 # babel-plugin-replace-identifiers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wssgcg1213/babel-plugin-replace-identifiers.svg)](https://greenkeeper.io/)
+
 replace-identifiers
 
 It replace an **Identifier** to another **Identifier**.
