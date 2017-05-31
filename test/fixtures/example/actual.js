@@ -1,1 +1,1 @@
-React.createElement('foo', bar, 'React', React);
+React.createElement('foo', bar.toString(), 'React', React);

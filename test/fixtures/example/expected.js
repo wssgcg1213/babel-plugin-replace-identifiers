@@ -1,1 +1,1 @@
-Rx.createElement('foo', bar, 'React', Rx);
+Rx.createElement('foo', bar.toString(), 'React', Rx);

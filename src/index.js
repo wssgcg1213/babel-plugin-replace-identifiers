@@ -7,7 +7,7 @@
 export default ({types: t}) => ({
   visitor: {
     Identifier(path, state) {
-      const newId = state.opts[path.node.name]
+      const newId = state.opts.hasOwnProperty(path.node.name) && state.opts[path.node.name];
       if (newId) {
         path.replaceWith(t.identifier(newId))
       }
